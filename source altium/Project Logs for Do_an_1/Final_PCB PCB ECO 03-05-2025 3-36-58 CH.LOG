@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=H6-2
+Removed Pin From Net: NetName=NetD0_1 Pin=LED1-2
+Removed Pin From Net: NetName=NetLED1_1 Pin=R1-1
+Removed Member From Class: ClassName=So do nguyen ly Member=H6
+Removed Member From Class: ClassName=So do nguyen ly Member=R3
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=D0 NewDesignator=D1
+Change Component Designator: OldDesignator=H6 NewDesignator=H1
+Change Component Designator: OldDesignator=JDC NewDesignator=JDC1
+Change Component Designator: OldDesignator=R0 NewDesignator=R3
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=RL0 NewDesignator=RL1
+Change Component Designator: OldDesignator=U0 NewDesignator=U1
+Added Component: Designator=R4(AXIAL-0.4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R4-1
+Added Pin To Net: NetName=5V Pin=R4-2
+Added Pin To Net: NetName=GND Pin=RL1-3
+Change Net Name : Old Net Name=5V New Net Name=+5V
+Change Net Name : Old Net Name=NetD0_1 New Net Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=RL1-5
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetH1_2 Pin=H1-2
+Added Pin To Net: NetName=NetH1_2 Pin=RL1-1
+Added Net: Name=NetH1_2
+Added Member To Class: ClassName=So do nguyen ly Member=Component JDC1 Jac DC
+Added Member To Class: ClassName=So do nguyen ly Member=Component R4 Res2
+Added Member To Class: ClassName=So do nguyen ly Member=Component U1 ESP32-DEVKITC-32D
+Added Room: Name=So do nguyen ly
